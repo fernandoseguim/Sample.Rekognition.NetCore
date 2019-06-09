@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A7EAE14C-5E8B-413C-9192-FC51E2783811}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Rekognition.NetCore", "src\Sample.Rekognition.NetCore\Sample.Rekognition.NetCore.csproj", "{AEC4964E-03B7-4322-A699-FE6FB22C9B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC4964E-03B7-4322-A699-FE6FB22C9B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC4964E-03B7-4322-A699-FE6FB22C9B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC4964E-03B7-4322-A699-FE6FB22C9B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC4964E-03B7-4322-A699-FE6FB22C9B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEC4964E-03B7-4322-A699-FE6FB22C9B5D} = {A7EAE14C-5E8B-413C-9192-FC51E2783811}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79B930D-8814-4CCF-A90B-BFD4252EE07B}
+	EndGlobalSection
+EndGlobal
