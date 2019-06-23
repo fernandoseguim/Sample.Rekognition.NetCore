@@ -8,8 +8,6 @@
   <ItemGroup>
     <Folder Include="FaceMatching\" />
     <Folder Include="FacialAnalysis\" />
-    <Folder Include="CelebrityRecognition\" />
-    <Folder Include="TextInImages\" />
     <Folder Include="ObjectsDetection\" />
   </ItemGroup>
 
